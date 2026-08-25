@@ -26,25 +26,6 @@ When high-fiber foods are paired with fermented foods — for example, oats with
 
 As with the broader evidence on spermidine and longevity, the diet–microbiota–polyamine link is well supported mechanistically and in animal studies, while human associations with mortality come largely from observational cohorts such as Bruneck and SAPHIR rather than randomized trials. It is best treated as a well-motivated eating pattern, not a guaranteed medical intervention.
 
-## High-Fiber Foods
-
-| Food | Fiber (g / 100 g) | Form / Notes |
-| --- | --- | --- |
-| Wheat bran | 42.8 | Crude/raw |
-| Chia seeds | 34.4 | Dried |
-| Flaxseed (ground) | 27.3 | Whole/ground |
-| Split peas | 25.5 | Raw, dry |
-| Black beans | 15.5 | Raw, dry |
-| Almonds | 12.5 | Raw |
-| Lentils | 10.7 | Raw, dry |
-| Oats (rolled) | 10.6 | Dry |
-| Navy beans | 10.5 | Cooked, boiled |
-| Artichoke | 8.6 | Cooked, boiled |
-| Avocado | 6.7 | Raw |
-| Raspberries | 6.5 | Raw |
-
-Source: USDA FoodData Central (National Agricultural Library, Total Dietary Fiber tables).
-
 ## High-Spermidine Foods
 
 | Food | Spermidine (mg / 100 g) | Notes |
@@ -63,6 +44,25 @@ Source: USDA FoodData Central (National Agricultural Library, Total Dietary Fibe
 | Potatoes, cooked | ~1.7 | Per spermidinefoods.com database |
 
 Sources: [spermidinefoods.com database](https://www.spermidinefoods.com/database/); Kiechl et al., "Higher spermidine intake is linked to lower mortality: a prospective population-based study," American Journal of Clinical Nutrition (2018); Muñoz-Esparza et al., "Polyamines in Food," Frontiers in Nutrition (2019).
+
+## High-Fiber Foods
+
+| Food | Fiber (g / 100 g) | Form / Notes |
+| --- | --- | --- |
+| Wheat bran | 42.8 | Crude/raw |
+| Chia seeds | 34.4 | Dried |
+| Flaxseed (ground) | 27.3 | Whole/ground |
+| Split peas | 25.5 | Raw, dry |
+| Black beans | 15.5 | Raw, dry |
+| Almonds | 12.5 | Raw |
+| Lentils | 10.7 | Raw, dry |
+| Oats (rolled) | 10.6 | Dry |
+| Navy beans | 10.5 | Cooked, boiled |
+| Artichoke | 8.6 | Cooked, boiled |
+| Avocado | 6.7 | Raw |
+| Raspberries | 6.5 | Raw |
+
+Source: USDA FoodData Central (National Agricultural Library, Total Dietary Fiber tables).
 
 ## Fermented Foods and Their Spermidine Potential
 
